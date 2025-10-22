@@ -39,5 +39,11 @@ This project replicates a **real-world BI solution**, combining **data engineeri
 
 ### Customer Insights Dashboard
 ![Customer Dashboard](dashboard/Customer%20Dashboard%20.png)
+README using Markdown link syntax. Here’s how:
 
+---
+
+## 📌 Tableau Public
+
+You can view my Tableau dashboards on [Tableau Public](https://public.tableau.com/app/profile/dvydv/vizzes).
 
