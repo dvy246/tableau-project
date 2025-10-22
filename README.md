@@ -1,6 +1,6 @@
 # 📊 Tableau End-to-End BI Project
-## Customer and Sales Performance Dashboards 
 
+## Customer and Sales Performance Dashboards 
 ---
 
 ## 🧩 Overview
@@ -31,13 +31,6 @@ This project replicates a **real-world BI solution**, combining **data engineeri
 | **Data Source** | Extracted from internal data warehouse tables (`Sales`, `Customers`, `Products`) |
 
 ---
-
-## ⚙️ Process Overview
-
-### 1. Data Preparation
-- Data pulled from **internal data warehouse** (fact and dimension tables).
-- Joined and cleaned in **Tableau’s Data Source tab**.
-- Created calculated fields:
 
 ## Dashboards
 
