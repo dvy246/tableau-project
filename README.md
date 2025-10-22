@@ -28,7 +28,7 @@ This project replicates a **real-world BI solution**, combining **data engineeri
 | `Dashboard.twbx` | Tableau packaged workbook containing both dashboards and data model |
 | `Sales Dashboard.png` | Snapshot of the Sales Performance Dashboard |
 | `Customer Dashboard.png` | Snapshot of the Customer Insights Dashboard |
-| **Data Source** | Extracted from internal data warehouse tables (`Sales`, `Orders`, `Customers`, `Products`) |
+| **Data Source** | Extracted from internal data warehouse tables (`Sales`, `Customers`, `Products`) |
 
 ---
 
@@ -39,8 +39,4 @@ This project replicates a **real-world BI solution**, combining **data engineeri
 - Joined and cleaned in **Tableau’s Data Source tab**.
 - Created calculated fields:
 
-```text
-Profit Margin = SUM([Profit]) / SUM([Sales])
-Sales per Customer = SUM([Sales]) / COUNTD([Customer ID])
-Year-over-Year Growth = ([Current Year] - [Previous Year]) / [Previous Year]
 
