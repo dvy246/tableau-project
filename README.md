@@ -2,6 +2,8 @@
 
 ## Customer and Sales Performance Dashboards 
 ---
+## 📊 Project Flow
+![Project Flow](https://raw.githubusercontent.com/dvy246/tableau-project/main/docs/Project%20Flow.png)
 
 ## 🧩 Overview
 This project demonstrates a complete **end-to-end Tableau analytics workflow**, analyzing **sales and customer performance** for the year **2013**.
@@ -40,8 +42,9 @@ This project replicates a **real-world BI solution**, combining **data engineeri
 ### Customer Insights Dashboard
 ![Customer Dashboard](dashboard/Customer%20Dashboard%20.png)
 
-### Products Dashboard
-![Products Dashboard](dashboard/Products%20Dashboard%20.png)
+###🧩 Products Dashboard
+![Products Dashboard](https://raw.githubusercontent.com/dvy246/tableau-project/main/dashboard/Products%20Dashboard.png)
+
 
 ---
 
