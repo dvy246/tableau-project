@@ -42,7 +42,7 @@ This project replicates a **real-world BI solution**, combining **data engineeri
 ### Customer Insights Dashboard
 ![Customer Dashboard](dashboard/Customer%20Dashboard%20.png)
 
-###🧩 Products Dashboard
+### Products Dashboard
 ![Products Dashboard](https://raw.githubusercontent.com/dvy246/tableau-project/main/dashboard/Products%20Dashboard.png)
 
 
